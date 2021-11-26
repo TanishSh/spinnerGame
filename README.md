@@ -1,2 +1,3 @@
 # spinnerGame
- a probability game
+## A probability game
+> website link: https://tanishsh.github.io/spinnerGame/
